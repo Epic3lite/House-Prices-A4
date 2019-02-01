@@ -18,6 +18,6 @@ Prepare a Data Exploratory Analysis. Take help from existing Kernels on Kaggle. 
  - Learn about feature selection using common methods such as filter and wrapper. There is no specific algorithm for you. Feel free to use any method, which suits better to your aim and objectives. 
  - Start learning about linear regression. It’s a high time to start learning training data. [done?]
 
-#Week 16 TODO
+## Week 16 TODO
  - Use a linear regression model to predict SalesPrice [done]
  - Use better filtering methods on the training data to get a better score on kaggle
